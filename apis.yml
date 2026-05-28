@@ -1,0 +1,32 @@
+aid: capesandbox
+name: CAPEsandbox
+description: "Malware execution and analysis"
+url: https://capev2.readthedocs.io/en/latest/usage/api.html
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Anti-Malware"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Anti Malware
+  - Public APIs
+apis:
+  - name: CAPEsandbox
+    description: "Malware execution and analysis"
+    humanURL: https://capev2.readthedocs.io/en/latest/usage/api.html
+    baseURL: https://capev2.readthedocs.io/en/latest/usage/api.html
+    tags:
+      - Anti Malware
+    properties:
+      - type: Documentation
+        url: https://capev2.readthedocs.io/en/latest/usage/api.html
+common:
+  - type: Website
+    url: https://capev2.readthedocs.io/en/latest/usage/api.html
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
