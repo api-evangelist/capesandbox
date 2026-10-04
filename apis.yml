@@ -39,7 +39,6 @@ apis:
   - name: CAPEsandbox
     description: "Malware execution and analysis"
     humanURL: https://capev2.readthedocs.io/en/latest/usage/api.html
-    baseURL: https://capev2.readthedocs.io/en/latest/usage/api.html
     tags:
       - Anti Malware
     properties:
